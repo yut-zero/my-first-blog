@@ -25,7 +25,7 @@ SECRET_KEY = 'co@6-g2d!3_#rv)*us434p#k=885c4q25*7fx2yb_sm_*@yq8l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['83138949f6174894a995334d754e3d45.vfs.cloud9.us-east-1.amazonaws.com' , '.c9users.io']
+ALLOWED_HOSTS = ['83138949f6174894a995334d754e3d45.vfs.cloud9.us-east-1.amazonaws.com' , '.c9users.io' , '127.0.0.1' , '.pythonanywhere.com']
 
 
 # Application definition
